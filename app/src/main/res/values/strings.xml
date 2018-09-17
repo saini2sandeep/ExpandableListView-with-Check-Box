@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">ExpandableListView</string>
+
+
+    <string-array name="fruit_category">
+        <item>Berries</item>
+        <item>Citrus Fruit</item>
+        <item>Melons</item>
+        <item>Tropical Fruits</item>
+        <item>Core</item>
+    </string-array>
+
+    <string-array name="berries">
+        <item>Blackberry</item>
+        <item>Cranberry</item>
+        <item>Blueberry</item>
+        <item>Raspberry</item>
+        <item>Strawberry</item>
+        <item>Graps</item>
+    </string-array>
+
+    <string-array name="citrus_fruit">
+        <item>Orange</item>
+        <item>Tangerines</item>
+        <item>Grapefruit</item>
+        <item>Lemon</item>
+        <item>Limes</item>
+    </string-array>
+
+    <string-array name="melons">
+        <item>Cantaloupe</item>
+        <item>Casaba</item>
+        <item>Honeydew</item>
+        <item>Watermelon</item>
+    </string-array>
+
+    <string-array name="tropical_fruits">
+        <item>Avocado</item>
+        <item>Coconut</item>
+        <item>Banana</item>
+        <item>Fig</item>
+        <item>Dates</item>
+        <item>Guava</item>
+        <item>Mango</item>
+        <item>Papaya</item>
+        <item>Pineapple</item>
+        <item>Pomegranate</item>
+        <item>Kiwi</item>
+    </string-array>
+
+    <string-array name="core">
+        <item>Apple</item>
+        <item>Pear</item>
+    </string-array>
+
+
+    <!--//HomeActivity-->
+
+    <string name="with_header_check_box">With Header Check Box</string>
+    <string name="with_child_check_box">With Only Child Check Box</string>
+    <string name="simple_el">Simple ExpandableListView</string>
+    <string name="expandable_list_view_project">ExpandableListView Project</string>
+    <string name="expandable_list_activity">ExpandableList Activity</string>
+    <string name="data_preview_activity">Data Preview Activity</string>
+    <string name="check_box_el">ExpandableList with CheckBox</string>
+
+</resources>
